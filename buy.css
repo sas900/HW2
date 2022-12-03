@@ -1,0 +1,35 @@
+html {
+    background-color: #171414;
+}
+
+body {
+    width: 600px;
+    margin: 10em auto;
+    background-color: white;
+    border: 3px #FF9300 solid;
+    padding: 0.5em;
+}
+
+p {
+    text-align: center;
+}
+
+hr {
+    width: 90%;
+    border: 1px solid #FF9300;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+input[type="submit"] {
+    font-size: 2em;
+    width: 100%;
+
+}
+
+input:hover {
+color: orange;
+}
